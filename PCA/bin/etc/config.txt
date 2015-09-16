@@ -1,0 +1,6 @@
+[x-axis]
+Czas [T]
+[y-axis]
+Wartoœæ
+[dc point sep]
+,

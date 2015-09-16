@@ -1,0 +1,1252 @@
+2015-04-29 10:46:19 DEBUG ApplicationMenu:35 - This is debug
+2015-04-29 10:46:19 ERROR ApplicationMenu:39 - This is error : 
+2015-04-29 10:46:19 ERROR ApplicationMenu:42 - This is error
+2015-04-29 10:46:47 DEBUG ApplicationMenu:35 - This is debug
+2015-04-29 10:46:47 ERROR ApplicationMenu:39 - This is error : 
+2015-04-29 10:46:47 ERROR ApplicationMenu:42 - This is error
+2015-04-29 11:06:44 ERROR ApplicationMenu:42 - User specified less than three files
+2015-04-29 11:15:22 DEBUG ApplicationMenu:55 - User selected only data file
+2015-04-29 11:16:18 DEBUG ApplicationMenu:56 - User selected only data file
+2015-04-29 11:16:18 DEBUG ApplicationMenu:56 - User selected only data file
+2015-04-29 11:16:18 DEBUG ApplicationMenu:56 - User selected only data file
+2015-04-29 11:16:40 DEBUG ApplicationMenu:50 - User selected Full info file
+2015-04-29 11:16:40 DEBUG ApplicationMenu:50 - User selected Full info file
+2015-04-29 11:16:40 DEBUG ApplicationMenu:50 - User selected Full info file
+2015-04-29 11:46:53 DEBUG ApplicationMenu:53 - User selected Full info file
+2015-04-29 11:46:53 DEBUG ApplicationMenu:53 - User selected Full info file
+2015-04-29 11:46:53 DEBUG ApplicationMenu:53 - User selected Full info file
+2015-04-29 11:51:09 DEBUG ApplicationMenu:53 - User selected Full info file
+2015-04-29 11:53:09 DEBUG ApplicationMenu:53 - User selected Full info file
+2015-04-29 11:53:09 DEBUG ApplicationMenu:53 - User selected Full info file
+2015-04-29 11:53:09 DEBUG ApplicationMenu:53 - User selected Full info file
+2015-04-29 12:54:06 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:54:06 FATAL ApplicationMenu:67 - Line reading error: 840,0000	90,8153
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:63)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 12:54:06 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:54:06 FATAL ApplicationMenu:67 - Line reading error: 840,0000	81,3346
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:63)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 12:54:06 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:54:06 FATAL ApplicationMenu:67 - Line reading error: 840,0000	4,0135
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:63)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 12:55:22 ERROR ApplicationMenu:45 - User specified less than three files
+2015-04-29 12:55:29 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:55:29 FATAL ApplicationMenu:67 - Line reading error: 840,0000	81,3346
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:63)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 12:55:29 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:55:29 FATAL ApplicationMenu:67 - Line reading error: 2000,0000	70,8965
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:63)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 12:55:29 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:55:29 FATAL ApplicationMenu:67 - Line reading error: 2000,0000	74,639
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:63)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 12:56:47 ERROR ApplicationMenu:45 - User specified less than three files
+2015-04-29 12:56:53 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:56:53 FATAL ApplicationMenu:67 - Line reading error: 840,0000	90,8153
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:63)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 12:56:53 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:56:53 FATAL ApplicationMenu:67 - Line reading error: 840,0000	81,3346
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:63)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 12:56:53 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:56:53 FATAL ApplicationMenu:67 - Line reading error: 840,0000	4,0135
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:63)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 12:58:21 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:58:21 FATAL ApplicationMenu:67 - Line reading error: 840,0000	90,8153
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:63)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 12:58:21 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:58:21 FATAL ApplicationMenu:67 - Line reading error: 840,0000	81,3346
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:63)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 12:58:21 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:58:21 FATAL ApplicationMenu:67 - Line reading error: 840,0000	4,0135
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:63)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 12:59:14 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:59:14 FATAL ApplicationMenu:68 - Line reading error: 840,0000	90,8153
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:64)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 12:59:14 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:59:14 FATAL ApplicationMenu:68 - Line reading error: 840,0000	81,3346
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:64)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 12:59:14 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:59:14 FATAL ApplicationMenu:68 - Line reading error: 840,0000	4,0135
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:64)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 12:59:57 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:59:57 FATAL ApplicationMenu:68 - Line reading error: 840,0000	90,8153
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:64)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 12:59:57 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:59:57 FATAL ApplicationMenu:68 - Line reading error: 840,0000	81,3346
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:64)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 12:59:57 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 12:59:57 FATAL ApplicationMenu:68 - Line reading error: 840,0000	4,0135
+java.lang.NullPointerException
+	at model.FileDataManager.addVariable(FileDataManager.java:33)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:64)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 13:00:13 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 13:01:53 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 13:01:53 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 13:01:53 DEBUG ApplicationMenu:54 - User selected Full info file
+2015-04-29 13:11:37 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:11:37 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:11:37 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:11:46 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:11:46 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:11:46 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:12:29 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:12:34 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:12:34 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:13:48 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:13:48 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:13:48 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:13:48 ERROR ApplicationMenu:87 - Data comparison exception 
+java.lang.Exception:  Given data doesn't have right parameters
+	at model.FileDataManager.checkValues(FileDataManager.java:86)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:85)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 13:15:24 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:15:24 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:15:24 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:15:24 ERROR ApplicationMenu:87 - Data comparison exception 
+java.lang.Exception:  Given data doesn't have right parameters
+	at model.FileDataManager.checkValues(FileDataManager.java:86)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:85)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 13:16:15 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:16:15 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:16:15 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:17:24 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:17:24 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:17:24 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:17:24 ERROR ApplicationMenu:87 - Data comparison exception 
+java.lang.Exception:  Given data doesn't have right parameters
+	at model.FileDataManager.checkValues(FileDataManager.java:86)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:85)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-04-29 13:17:49 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:17:49 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:17:49 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:19:00 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:19:00 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:19:00 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:20:10 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:20:10 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-04-29 13:20:10 DEBUG ApplicationMenu:74 - User selected only data file
+2015-05-04 06:14:28 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-05-04 06:14:28 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-05-04 06:14:28 DEBUG ApplicationMenu:57 - User selected Full info file
+2015-05-04 07:00:15 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 07:00:15 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 07:00:15 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 07:01:58 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 07:01:58 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 07:01:58 DEBUG ApplicationMenu:75 - User selected only data file
+2015-05-04 07:22:22 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 07:22:22 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 07:22:22 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 07:57:53 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 07:57:53 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 07:57:53 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 07:58:18 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 07:58:18 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 07:58:18 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 07:59:35 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 07:59:35 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 07:59:35 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:06:19 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:06:19 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:06:19 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:07:28 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:07:28 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:07:28 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:08:23 ERROR ApplicationMenu:46 - User specified less than three files
+2015-05-04 08:08:31 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:08:31 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:08:31 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:20:20 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:20:20 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:20:20 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:23:57 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:23:57 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:23:57 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:24:23 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:24:23 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:24:23 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:30:11 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:30:11 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:30:11 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:30:29 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:30:29 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:30:29 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:34:05 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:34:05 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:34:05 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:34:28 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:34:28 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:34:28 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:40:24 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:40:24 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:40:24 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:40:52 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:40:52 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:40:52 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:44:02 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:44:02 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:44:02 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:47:09 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:47:09 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:47:09 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:47:50 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:47:50 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:47:50 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:48:14 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:48:14 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:48:14 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:48:48 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:48:48 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:48:48 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:49:08 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:49:08 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:49:08 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:49:23 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:49:23 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:49:23 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:49:36 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:49:36 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:49:36 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:53:20 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:53:20 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:53:20 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:53:37 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:53:37 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:53:37 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:54:01 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:54:01 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:54:01 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:54:16 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:54:16 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:54:16 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:54:44 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:54:44 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:54:44 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:58:03 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:58:03 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:58:03 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:59:51 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:59:51 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 08:59:51 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:00:15 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:00:15 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:00:15 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:00:48 ERROR ApplicationMenu:46 - User specified less than three files
+2015-05-04 09:00:52 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:00:52 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:00:52 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:01:58 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:01:58 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:01:58 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:02:32 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:02:32 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:02:32 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:10:37 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:10:37 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:10:37 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:11:21 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:11:21 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:11:21 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:18:05 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:18:05 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:18:05 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:18:54 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:18:54 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-04 09:18:54 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-11 07:17:54 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-11 07:17:55 DEBUG ApplicationMenu:58 - User selected Full info file
+2015-05-11 07:17:55 DEBUG ApplicationMenu:75 - User selected only data file
+2015-05-11 10:00:30 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:00:30 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:00:30 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 10:01:35 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:01:35 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:01:35 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 10:03:41 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:03:41 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:03:41 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 10:05:54 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:05:54 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:05:54 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 10:06:20 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:06:20 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:06:20 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 10:07:16 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:07:16 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:07:16 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 10:08:00 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:08:00 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:08:00 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 10:12:45 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:12:45 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:12:45 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 10:14:20 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:14:20 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:14:20 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 10:14:44 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:14:45 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:14:45 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 10:17:31 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:17:31 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:17:31 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 10:17:52 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:17:52 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:17:52 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 10:19:14 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:19:14 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 10:19:14 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 11:00:07 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 11:00:07 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 11:00:07 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 11:00:37 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 11:00:37 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 11:00:37 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 11:08:57 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 11:08:57 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 11:08:57 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 11:14:34 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 11:14:34 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 11:14:34 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 11:31:44 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 11:31:44 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 11:31:44 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 13:14:23 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 13:14:23 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 13:14:23 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 13:15:15 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 13:15:15 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 13:15:15 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 13:15:41 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 13:15:41 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 13:15:41 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-11 13:25:02 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 13:25:02 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 13:25:02 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 13:37:50 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 13:37:50 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-11 13:37:50 DEBUG ApplicationMenu:76 - User selected only data file
+2015-05-21 09:11:11 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 09:11:11 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 09:11:11 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 11:54:38 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 11:54:38 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 11:54:39 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 11:55:35 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 11:55:35 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 11:55:35 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 11:57:18 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 11:57:18 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 11:57:18 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 11:57:18 ERROR PCAChartPanel:68 - B³¹d generowania wykresu PCA
+java.lang.IllegalArgumentException: This dataset already contains a series with the key Series 1
+	at org.jfree.data.xy.XYSeriesCollection.addSeries(XYSeriesCollection.java:159)
+	at GUI.PCAChartPanel.buildDatachart(PCAChartPanel.java:99)
+	at GUI.PCAChartPanel.<init>(PCAChartPanel.java:66)
+	at GUI.ApplicationMenu$1.actionPerformed(ApplicationMenu.java:109)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-05-21 11:58:01 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 11:58:01 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 11:58:01 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:00:54 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:00:54 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:00:54 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:09:04 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:09:04 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:09:04 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:10:47 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:10:47 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:10:47 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:11:11 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:11:11 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:11:11 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:12:00 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:12:00 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:12:00 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:12:19 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:12:19 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:12:19 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:14:30 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:14:30 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:14:30 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:15:10 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:15:10 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:15:10 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:15:32 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:15:32 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:15:32 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:18:43 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:18:43 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:18:43 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:20:30 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:20:30 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:20:30 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:43:19 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:43:19 DEBUG ApplicationMenu:59 - User selected Full info file
+2015-05-21 12:43:19 DEBUG ApplicationMenu:59 - User selected Full info file
